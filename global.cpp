@@ -1,18 +1,4 @@
-/******************************************************************************
 
-  Copyright (C), 2020, Fred
-
- ******************************************************************************
-  File Name     : global.cpp
-  Version       : v1.0
-  Author        : wtzhu_13/Fred
-  Created       : 2020/05
-  Description   : this file was private for orderSystem
-  History       :
-  1.Date        :
-    Author      :
-    Modification: Created file
-******************************************************************************/
 #include "global.h"
 
 int globalIndex = 0;
